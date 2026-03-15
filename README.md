@@ -1,5 +1,8 @@
 # adventure-kunitaka-team
-Repository for the Adventure Kunitaka Team documents.
+
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
+The repository for the Adventure Kunitaka Team documents.
 
 ## Features
 - Contains video and image files for the Adventure Kunitaka Team project.
