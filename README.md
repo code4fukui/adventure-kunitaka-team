@@ -13,4 +13,4 @@ The repository includes the following media files:
 - Images: `IMG_0804.HEIC`, `IMG_0773.HEIC`, `IMG_0766.HEIC`, `IMG_0791.HEIC`, `IMG_0770.HEIC`, `IMG_0769.HEIC`, `IMG_0827.HEIC`
 
 ## License
-This project is open source.
+MIT License — see [LICENSE](LICENSE).
